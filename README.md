@@ -1,7 +1,8 @@
-🎬 Netflix Content Analytics Dashboard (Tableau)
+### 🎬 Netflix Content Analytics Dashboard (Tableau)
+
 Interactive Tableau dashboard built on a synthetic Netflix-style catalog of movies and TV shows, analyzing content by type, genre, country, rating, and release year. The dataset includes show ID, title, director, cast, country, added date, release year, rating, duration, listed genres, and a short description for each title.​
 
-📊 Dashboard Overview
+## 📊 Dashboard Overview
 
 <img width="1326" height="541" alt="image" src="https://github.com/user-attachments/assets/589aef32-d6aa-4c11-98c0-cce6f12ce3df" />
 
@@ -12,7 +13,8 @@ Visuals for genre distribution, content by country, and trend of releases over t
 
 Filters for type, rating, country, and year to explore specific segments of the catalog.​​
 
-✅ Key Highlights
+## ✅ Key Highlights
+
 Split between Movies and TV Shows with counts and percentages
 
 Genre breakdown using the “listedin” field (e.g., Dramas, Sci-Fi Fantasy, Crime TV Shows, Kids TV)
@@ -23,7 +25,8 @@ Ratings mix across TV-Y, TV-PG, TV-MA, PG-13, R, NC-17, etc.
 
 Timeline of titles by original release year and by “date added”.​
 
-🎯 Business Purpose
+## 🎯 Business Purpose
+
 Helps content and analytics teams:
 
 Understand catalog composition across genres, ratings, and countries
